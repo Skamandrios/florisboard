@@ -3,7 +3,7 @@
 ![Screenshot](assets/methone_theme.jpg)
 
 ## Installation
-1. Download the theme .flex. 
+1. Download the theme .flex in /florisborad/themes
 2. Open the florisboard.
 3. Go to Theme and click Manage installed themes.
 4. Select import and then click on Select files.
