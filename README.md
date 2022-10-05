@@ -1,9 +1,11 @@
-# Methone for [FlorisBoard](https://github.com/florisboard/florisboard)
-> A theme for [FlorisBoard](https://github.com/florisboard/florisboard).
-![Screenshot](assets/methone_theme.jpg)
-
-## Installation
-1. Download the theme .flex in /florisborad/themes
+# Methone Night for [FlorisBoard](https://github.com/florisboard/florisboard)
+> A night theme for [FlorisBoard](https://github.com/florisboard/florisboard).
+## Borderless:
+![Screenshot](assets/methone_theme_borderless.png)
+## With Borders:
+![Screenshot](assets/methone_theme.png)
+## Installation:
+1. Download the theme .flex
 2. Open the florisboard.
 3. Go to Theme and click Manage installed themes.
 4. Select import and then click on Select files.
